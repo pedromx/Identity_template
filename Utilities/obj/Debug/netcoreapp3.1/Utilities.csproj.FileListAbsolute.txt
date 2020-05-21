@@ -1,0 +1,8 @@
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\Utilities\bin\Debug\netcoreapp3.1\Utilities.deps.json
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\Utilities\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\Utilities\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\Utilities\obj\Debug\netcoreapp3.1\Utilities.AssemblyInfoInputs.cache
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\Utilities\obj\Debug\netcoreapp3.1\Utilities.AssemblyInfo.cs
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\Utilities\obj\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\Utilities\obj\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\Utilities\obj\Debug\netcoreapp3.1\Utilities.csprojAssemblyReference.cache

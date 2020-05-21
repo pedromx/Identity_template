@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xipe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xipe\\.nuget\\packages"
+    ]
+  }
+}

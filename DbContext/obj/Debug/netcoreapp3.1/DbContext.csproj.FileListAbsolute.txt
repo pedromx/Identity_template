@@ -1,0 +1,11 @@
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\bin\Debug\netcoreapp3.1\DbContext.deps.json
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\bin\Debug\netcoreapp3.1\DbContext.dll
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\bin\Debug\netcoreapp3.1\DbContext.pdb
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\obj\Debug\netcoreapp3.1\DbContext.csprojAssemblyReference.cache
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\obj\Debug\netcoreapp3.1\DbContext.AssemblyInfoInputs.cache
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\obj\Debug\netcoreapp3.1\DbContext.AssemblyInfo.cs
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\obj\Debug\netcoreapp3.1\DbContext.dll
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\obj\Debug\netcoreapp3.1\DbContext.pdb
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\bin\Debug\netcoreapp3.1\DbContext.runtimeconfig.json
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\bin\Debug\netcoreapp3.1\DbContext.runtimeconfig.dev.json
+C:\Users\xipe.A-5CG9055LFX\source\repos\AuthBase\DbContext\obj\Debug\netcoreapp3.1\DbContext.genruntimeconfig.cache
